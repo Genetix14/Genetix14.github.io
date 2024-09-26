@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap');
+
+body {
+    font-family: 'Sofadi One';
+    background-color: purple;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+}
